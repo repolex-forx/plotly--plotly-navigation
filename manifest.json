@@ -1,0 +1,22 @@
+{
+  "manifest_version": "1.0",
+  "org": "plotly",
+  "repo": "plotly-navigation",
+  "versions": [
+    {
+      "commit": "cbc6e56b9f57b7c07e3ffed4cb3d37fc82a85734",
+      "parsed_at": "2026-11-07T01:34:40.991161+00:00",
+      "filetree": "filetree/cbc6e56b9f57b7c07e3ffed4cb3d37fc82a85734.nq.gz",
+      "blobs": [
+        "blob/7698c22d39fb0b3dcf6f2f1d17535708bf7b39e6.nq.gz",
+        "blob/fe26ffd5e8968629c6dfd1bf76e01b6acc5cfdec.nq.gz",
+        "blob/964b9425924c4de8d96e522678727384275d1246.nq.gz",
+        "blob/4c5d805fbdbd09441480f64bd8949008238ef044.nq.gz",
+        "blob/6a10787c1dbe3257442cacf53c463e9fbd680eea.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz"
+}
