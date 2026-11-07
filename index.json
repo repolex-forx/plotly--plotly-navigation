@@ -1,0 +1,11 @@
+{
+  "org": "plotly",
+  "repo": "plotly-navigation",
+  "versions": [
+    {
+      "commit": "cbc6e56b9f57b7c07e3ffed4cb3d37fc82a85734",
+      "tag": "",
+      "parsed_at": "2026-11-07T01:37:09.565507+00:00"
+    }
+  ]
+}
